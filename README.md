@@ -4,7 +4,7 @@
 
 # Larissa Araújo
 
-Hey I'm Larissa, I am in a career transition for Fullstack Web Development. Since then I have developed projects using Git, GitHub, Html, CSS, Javascript JS, HOFs, manipulation with DOM, Jest, API, React JS, Redux, RTL, Context API, Hooks, Function Components, Sass, Styled Components, Docker and MySql. I also enjoy ux and design in general.
+Hey I'm Larissa, I am in a career transition for Fullstack Web Development. Since then I have developed projects using Git, GitHub, Html, CSS, Javascript JS, Jest, React JS, Sass, Docker and MySql. I also enjoy ux and design in general.
 
 ## Resume
 <p align="left">

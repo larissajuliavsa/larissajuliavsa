@@ -23,7 +23,8 @@ Hey I'm Larissa, I am in a career transition for Fullstack Web Development. Sinc
 
 ## Examples of Work
 <p align="left">
- <a href="https://github.com/larissajuliavsa/trybetunes"> <img src="images/trybetunes-preview.gif" alt="Trybetunes Project" width="460"></a>   <a href="https://github.com/larissajuliavsa/trybewallet"><img src="images/trybewallet-preview.gif" alt="Trybewallet Project" width="460" ></a>
+   <a href="https://github.com/larissajuliavsa/trybetunes"> <img src="images/trybetunes-preview.gif" alt="Trybetunes Project" width="460"> <p>Trybetunes</p></a>
+  <a href="https://github.com/larissajuliavsa/trybewallet"> <img src="images/trybewallet-preview.gif" alt="Trybewallet Project" width="460" >       <p>Trybewallet</p></a>
 </p>
 
 ## Stats

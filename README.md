@@ -110,17 +110,15 @@ Hey I'm Larissa, I am in a career transition for Fullstack Web Development. Sinc
 
 
 ## Examples of Work
-<p align="left">
-  <a href="https://github.com/larissajuliavsa/trybetunes" target="_blank" rel="noreferrer">
-    <img src="images/trybetunes-preview.gif" alt="Trybetunes Project" width="430">
-    Trybetunes
-  </a>
 
-  <a href="https://github.com/larissajuliavsa/trybewallet" target="_blank" rel="noreferrer">
-    <img src="images/trybewallet-preview.gif" alt="Trybewallet Project" width="430">
-    Trybewallet
-  </a>
-</p>
+  <a href="https://github.com/larissajuliavsa/trybetunes" target="_blank" rel="noreferrer">Trybetunes</a>
+  <br>
+  <img src="images/trybetunes-preview.gif" alt="Trybetunes Project" width="430">
+
+ <br>
+  <a href="https://github.com/larissajuliavsa/trybewallet" target="_blank" rel="noreferrer">Trybewallet</a>
+  <img src="images/trybewallet-preview.gif" alt="Trybewallet Project" width="430">
+
 
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissajuliavsa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

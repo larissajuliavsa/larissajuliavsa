@@ -8,7 +8,7 @@ Hey I'm Larissa, I am in a career transition for Fullstack Web Development. Sinc
 
 ## Resume
 <p align="left">
-  <a href="docs/LarissaAraujoSoftwareDevelopmentPT.pdf" download>
+  <a href="docs/LarissaAraujoSoftwareDevelopment.pdf" download>
     <img src="images/CV.png" alt="Larissa Araújo Resume">
   </a>
 </p>

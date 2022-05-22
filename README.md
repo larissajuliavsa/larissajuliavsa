@@ -113,10 +113,12 @@ Hey I'm Larissa, I am in a career transition for Fullstack Web Development. Sinc
 <p align="left">
   <a href="https://github.com/larissajuliavsa/trybetunes" target="_blank" rel="noreferrer">
     <img src="images/trybetunes-preview.gif" alt="Trybetunes Project" width="430">
+    Trybetunes
   </a>
 
   <a href="https://github.com/larissajuliavsa/trybewallet" target="_blank" rel="noreferrer">
     <img src="images/trybewallet-preview.gif" alt="Trybewallet Project" width="430">
+    Trybewallet
   </a>
 </p>
 

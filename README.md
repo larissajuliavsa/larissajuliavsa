@@ -84,11 +84,11 @@ Hey I'm Larissa, I am in a career transition for Fullstack Web Development. Sinc
 
 ## Examples of Work
 <p align="left">
-  <a href="https://github.com/larissajuliavsa/trybetunes">
+  <a href="https://github.com/larissajuliavsa/trybetunes" target="_blank" rel="noreferrer">
     <img src="images/trybetunes-preview.gif" alt="Trybetunes Project" width="430">
   </a>
 
-  <a href="https://github.com/larissajuliavsa/trybewallet">
+  <a href="https://github.com/larissajuliavsa/trybewallet" target="_blank" rel="noreferrer">
     <img src="images/trybewallet-preview.gif" alt="Trybewallet Project" width="430">
   </a>
 </p>

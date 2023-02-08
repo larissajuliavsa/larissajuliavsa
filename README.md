@@ -4,7 +4,11 @@
 
 # Larissa Araújo
 
-Hey I'm Larissa, I am in a career transition for Fullstack Web Development. Since then I have developed projects using Git, Javascript, React JS, Sass, Docker and MySql. I also enjoy ux and design in general.
+Hey I'm Larissa, graduated in Web Development at Trybe. In this course, I studied Front End, Back End, and Computer Science, developing projects with different teams. 
+
+Currently, I identify more with Front End using the following stacks and technologies: Git, GitHub, Html, CSS, Sass, Javascript JS, Typescript Ts, React (Class e Function), and Tests.
+
+Feel free to take a look at my LinkedIn profile: https://www.linkedin.com/in/larissa-julia-araújo/
 
 ## Resume
 <p align="left">

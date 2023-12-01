@@ -21,7 +21,7 @@ Feel free to take a look at my LinkedIn profile: https://www.linkedin.com/in/lar
 
 ## Contact
 <p align="left">
-<a href="https://linkedin.com/in/larissa-julia-araújo" target="blank"><img align="center" src="images/Linkedin.png" alt="larissa-julia-araújo"/></a>
+<a href="https://linkedin.com/in/larissa-julia-araujo" target="blank"><img align="center" src="images/Linkedin.png" alt="larissa-julia-araújo"/></a>
 </p>
 
 ## Skills

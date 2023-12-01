@@ -125,6 +125,3 @@ Feel free to take a look at my LinkedIn profile: https://www.linkedin.com/in/lar
   <a href="https://github.com/larissajuliavsa/trybewallet" target="_blank" rel="noreferrer">Trybewallet</a>
   <img src="images/trybewallet-preview.gif" alt="Trybewallet Project" width="430">
 
-
-## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissajuliavsa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

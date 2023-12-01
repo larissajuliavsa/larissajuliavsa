@@ -4,9 +4,11 @@
 
 # Larissa Araújo
 
-Hey I'm Larissa, graduated in Web Development at Trybe. In this course, I studied Front End, Back End, and Computer Science, developing projects with different teams. 
+Hello! I'm Larissa, graduated in Web Development from Trybe, where I delved into the pillars of Front End, Back End, and Computer Science. My academic journey was marked by numerous hands-on projects, collaborating with peers and development teams.
 
-Currently, I identify more with Front End using the following stacks and technologies: Git, GitHub, Html, CSS, Sass, Javascript JS, Typescript Ts, React (Class e Function), and Tests.
+With experience as a junior developer, I've had the opportunity to explore Front End and UX, areas that sparked my passion. I'm also constantly open to new learning experiences, aiming to broaden my skill set and take on new challenges.
+
+Currently, I identify more with Front End using the following stacks and technologies: Git, GitHub, Html, CSS, Sass, Javascript Vanilla, Typescript Ts, React (Class and Function), and Tests.
 
 Feel free to take a look at my LinkedIn profile: https://www.linkedin.com/in/larissa-julia-araújo/
 

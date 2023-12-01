@@ -10,7 +10,7 @@ With experience as a junior developer, I've had the opportunity to explore Front
 
 Currently, I identify more with Front End using the following stacks and technologies: Git, GitHub, Html, CSS, Sass, Javascript Vanilla, Typescript Ts, React (Class and Function), and Tests.
 
-Feel free to take a look at my LinkedIn profile: https://www.linkedin.com/in/larissa-julia-araújo/
+Feel free to take a look at my LinkedIn profile: https://www.linkedin.com/in/larissa-julia-araujo/
 
 ## Resume
 <p align="left">

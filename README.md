@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/BannerGithub.png" />
+  <img src="images/banner-github.png" />
 </p>
 
 # Larissa Araújo

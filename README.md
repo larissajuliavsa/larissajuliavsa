@@ -8,7 +8,7 @@ I'm Larissa, graduated in Web Development from Trybe, where I extensively studie
 
 With experience as a junior developer, I've had the opportunity to explore Front End and UX. I'm also constantly open to new learning experiences, aiming to broaden my skill set and take on new challenges.
 
-I've also worked on projects using technologies such as Git, GitHub, HTML, CSS, Sass, JavaScript (JS Vanilla), TypeScript (TS), React JS, Node.JS, Express, Docker, MySQL, MongoDB, REST API, and testing. Additionally, I've utilized styling frameworks and libraries like Bootstrap, Material UI, and Styled Components.
+I've also worked on projects using technologies such as Git, GitHub, HTML, CSS, Sass, JavaScript (JS Vanilla), TypeScript (TS), Angular, React JS, Node.JS, Express, Docker, MySQL, MongoDB, REST API, and testing. Additionally, I've utilized styling frameworks and libraries like Bootstrap, Material UI, and Styled Components.
 
 Feel free to contact me at
 - LinkedIn: https://www.linkedin.com/in/larissa-julia-araujo/

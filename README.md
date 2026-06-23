@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">Frontend Developer at Santander with experience building enterprise web applications using React, Angular, and TypeScript.<br><br>I focus on creating secure, scalable, and user-centered products, working closely with business stakeholders, designers, and backend teams.</p>
+<p data-importer="text" align="left">Frontend Developer at Santander with experience building enterprise web applications using React, Angular, and TypeScript.<br>I focus on creating secure, scalable, and user centered products, working closely with business stakeholders, designers, and backend teams.</p>
 
 ###
 
@@ -14,9 +14,9 @@
 
 ###
 
-- Building enterprise platforms at Santander
-- Developing open source and portfolio projects
-- Exploring frontend architecture and reusable React libraries
+👩🏼‍💻 Building enterprise platforms at Santander
+<br>💾 Developing open source and portfolio projects
+<br>🔍 Exploring frontend architecture and reusable React libraries
 
 ###
 
@@ -58,5 +58,5 @@
 
 ###
 
-- LinkedIn: https://www.linkedin.com/in/larissa-julia-araujo/
-- Email: larissa.jvsa@gmail.com
+🌐 Linkedin: https://www.linkedin.com/in/larissa-julia-araujo/
+<br>🕵🏻‍♀️ Email: larissa.jvsa@gmail.com

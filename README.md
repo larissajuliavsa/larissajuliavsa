@@ -1,6 +1,6 @@
 # 🌞 I'm Larissa Souza
 
-Frontend Engineer passionate about building scalable, secure, and user-centered web applications.
+Frontend Engineer passionate about building scalable, secure, and user centered web applications.
 
 Currently working at Santander, developing enterprise platforms used by thousands of employees, with a strong focus on React, Angular, TypeScript, frontend architecture, and design systems.
 
@@ -11,9 +11,9 @@ I enjoy solving complex business problems, improving developer experience, and c
 ## 🚀 What I'm Working On
 
 * Building enterprise applications at Santander
-* Developing open-source React libraries
+* Developing open source React libraries
 * Exploring frontend architecture and design systems
-* Creating portfolio projects inspired by real-world business challenges
+* Creating portfolio projects inspired by real world business challenges
 * Studying scalable frontend patterns and engineering best practices
 
 ---
@@ -22,12 +22,12 @@ I enjoy solving complex business problems, improving developer experience, and c
 
 ### 🔐 React Permission Kit
 
-A lightweight and type-safe React library for permission management and authorization.
+A lightweight and type safe React library for permission management and authorization.
 
 **Highlights**
 
 * TypeScript First
-* Role-Based Access Control (RBAC)
+* Role Based Access Control (RBAC)
 * Route Guards
 * Wildcard Permissions
 * 100% Test Coverage

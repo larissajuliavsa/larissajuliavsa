@@ -1,62 +1,118 @@
-<h1 data-importer="text" align="left">Hey there 🤗</h1>
+# 🌞 I'm Larissa Souza
 
-###
+Frontend Engineer passionate about building scalable, secure, and user-centered web applications.
 
-<h2 data-importer="text" align="left">I'm Larissa,</h2>
+Currently working at Santander, developing enterprise platforms used by thousands of employees, with a strong focus on React, Angular, TypeScript, frontend architecture, and design systems.
 
-###
+I enjoy solving complex business problems, improving developer experience, and creating reusable solutions that help teams move faster.
 
-<p data-importer="text" align="left">Frontend Developer at Santander with experience building enterprise web applications using React, Angular, and TypeScript.<br>I focus on creating secure, scalable, and user centered products, working closely with business stakeholders, designers, and backend teams.</p>
+---
 
-###
+## 🚀 What I'm Working On
 
-<h3 data-importer="text" align="left">Currently</h3>
+* Building enterprise applications at Santander
+* Developing open-source React libraries
+* Exploring frontend architecture and design systems
+* Creating portfolio projects inspired by real-world business challenges
+* Studying scalable frontend patterns and engineering best practices
 
-###
+---
 
-👩🏼‍💻 Building enterprise platforms at Santander
-<br>💾 Developing open source and portfolio projects
-<br>🔍 Exploring frontend architecture and reusable React libraries
+## 🏗 Featured Projects
 
-###
+### 🔐 React Permission Kit
 
-<h3 data-importer="text" align="left">I code with</h3>
+A lightweight and type-safe React library for permission management and authorization.
 
-###
+**Highlights**
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+* TypeScript First
+* Role-Based Access Control (RBAC)
+* Route Guards
+* Wildcard Permissions
+* 100% Test Coverage
 
-###
+**Tech Stack**
 
-<h3 data-importer="text" align="left">Feel free to contact me at</h3>
+React • TypeScript • Vitest • Vite
 
-###
+---
 
-🌐 Linkedin: https://www.linkedin.com/in/larissa-julia-araujo/
-<br>🕵🏻‍♀️ Email: larissa.jvsa@gmail.com
+### 📄 ATS Platform
+
+A modern Applicant Tracking System built with React.
+
+**Features**
+
+* Candidate Management
+* Resume Upload
+* Search & Filtering
+* Authentication
+* Dashboard Analytics
+
+**Tech Stack**
+
+React • TypeScript • React Query • TanStack Table • Tailwind CSS
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+* React
+* Angular
+* TypeScript
+* JavaScript
+* Next.js
+* HTML5
+* CSS3
+* Sass
+* Tailwind CSS
+* Storybook
+
+### State & Data
+
+* React Query
+* Context API
+* REST APIs
+
+### Testing
+
+* Jest
+* Vitest
+* Testing Library
+
+### Backend & Infrastructure
+
+* Node.js
+* Docker
+* CI/CD
+* Git
+
+### Databases
+
+* PostgreSQL
+* MySQL
+
+---
+
+## 📈 Areas of Interest
+
+* Frontend Architecture
+* Design Systems
+* Developer Experience (DX)
+* Enterprise Applications
+* Accessibility
+* Performance Optimization
+* Open Source
+
+---
+
+## 🌎 Let's Connect
+
+💼 LinkedIn
+[www.linkedin.com/in/larissa-julia-araujo/](http://www.linkedin.com/in/larissa-julia-araujo/)
+
+📧 Email
+[larissa.jvsa@gmail.com](mailto:larissa.jvsa@gmail.com)
